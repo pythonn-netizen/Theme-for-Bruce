@@ -1,0 +1,22 @@
+{
+  "boot": "boot.gif",
+  "wifi": "wifi.jpeg",
+  "ble": "ble.jpeg",
+  "rf": "RF.jpeg",
+  "rfid": "RFID.jpeg",
+  "ir": "IR.jpeg",
+  "fm": "FM.jpeg",
+  "files": "Files.jpeg",
+  "gps": "GPS.jpeg",
+  "nrf": "NRF.jpeg",
+  "interpreter": "JS Interpreter.jpeg",
+  "others": "Others.jpeg",
+  "clock": "Clock.jpeg",
+  "connect": "Ethernet.jpeg",
+  "config": "Config.jpeg",
+  "priColor": "ffff",
+  "secColor": "8c71",
+  "bgColor": "0000",
+  "border": 1,
+  "label": 0
+}
